@@ -7,7 +7,9 @@ authors = ["x"]
 [tool.poetry.dependencies]
 python = "^3.7"
 jupyter = "^1.0.0"
+matplotlib = "^3.3.3"
 gym = {version = "^0.18.0", extras = ["worldmodel"]}
+opencv-python = "^4.4.0"
 
 [tool.poetry.dev-dependencies]
 
