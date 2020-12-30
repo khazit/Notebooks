@@ -3,7 +3,7 @@
 Inspired by [this](https://worldmodels.github.io).
 
 ## Vision module
-![Reconstructed frames](reconstructed.gif)
+![Reconstructed frames](img/reconstructed.gif)
 
 ## Memory module
 
