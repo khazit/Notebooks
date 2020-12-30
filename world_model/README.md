@@ -1,6 +1,6 @@
 # World Models
 
-Inspired by [](worldmodels.github.io)
+Inspired by [this](https://worldmodels.github.io).
 
 ## Vision module
 ![Reconstructed frames](reconstructed.gif)
